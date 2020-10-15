@@ -26,6 +26,7 @@ def possibleCombinations(k):
             if currentDigit > 0:
                 validList.append(currentDigit)
             if currentDigit < 2:
+                pass
 
 
 def decode(k):
